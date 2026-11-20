@@ -62,7 +62,7 @@ TOPICS = [
             "{opener}what payment methods are accepted for paying school fees for {subject}?",
             "{opener}can I pay the tuition fee online using a debit card or bank transfer for {subject}?",
             "{opener}is there an online portal option to submit school fees for {subject}?",
-            "{opener}do you accept direct bank deposits for the term fees of {subject}?",
+            "{opener}do you accept direct bank deposits for the monthly tuition fees of {subject}?",
         ],
     },
     # --- Category: Holidays (3 topics) ---

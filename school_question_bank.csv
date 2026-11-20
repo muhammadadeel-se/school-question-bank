@@ -1,10 +1,10 @@
 ID,Question,Expected Answer,Category
-1,Quick question: do you accept direct bank deposits for the term fees of my child?,"Fees can be paid via online bank transfer, debit or credit card on the parent portal, or direct bank deposit.",Fees
+1,Quick question: do you accept direct bank deposits for the monthly tuition fees of my child?,"Fees can be paid via online bank transfer, debit or credit card on the parent portal, or direct bank deposit.",Fees
 2,Quick question: what happens if the monthly fee payment for new students is delayed past the deadline?,A late payment surcharge of 5% is applied if fees are paid after the 10th of the month.,Fees
 3,By which date do I need to clear the school fees for new students?,Monthly tuition fees are due by the 10th of each month.,Fees
 4,"Hi, could you explain the punctuality and attendance rules for my daughter?","Classes begin at 8:00 AM; arrivals after 8:10 AM are marked late, and at least 85% attendance is mandatory.",Behavior Rules
 5,"Hello, will there be regular classes or a day off on gazetted public holidays for new students?","The school closes on all national public holidays, and notices are posted on the parent portal two days prior.",Holidays
-6,"Hello, do you accept direct bank deposits for the term fees of my daughter?","Fees can be paid via online bank transfer, debit or credit card on the parent portal, or direct bank deposit.",Fees
+6,"Hello, do you accept direct bank deposits for the monthly tuition fees of my daughter?","Fees can be paid via online bank transfer, debit or credit card on the parent portal, or direct bank deposit.",Fees
 7,"Could you please clarify, will there be regular classes or a day off on gazetted public holidays for my daughter?","The school closes on all national public holidays, and notices are posted on the parent portal two days prior.",Holidays
 8,"Could you please clarify, does the school offer any sibling discount on tuition fees for new students?",Families with two or more enrolled children receive a 10% tuition discount for each additional sibling.,Fees
 9,"Could you please clarify, could you confirm the due date for this month's tuition fee for my son?",Monthly tuition fees are due by the 10th of each month.,Fees
