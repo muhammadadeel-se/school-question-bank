@@ -29,7 +29,7 @@ TOPICS = [
             "{opener}when is the last date to pay the monthly tuition fee for {subject}?",
             "{opener}what is the official fee submission deadline each month for {subject}?",
             "{opener}by which date do I need to clear the school fees for {subject}?",
-            "{opener}could you confirm the due date for this term's tuition fee for {subject}?",
+            "{opener}could you confirm the due date for this month's tuition fee for {subject}?",
         ],
     },
     {
@@ -51,7 +51,7 @@ TOPICS = [
             "{opener}does the school offer any sibling discount on tuition fees for {subject}?",
             "{opener}how much fee concession is available if I enroll another sibling alongside {subject}?",
             "{opener}are there reduced tuition rates when multiple children from the same family attend with {subject}?",
-            "{opener}how can I apply for a sibling fee discount for {subject}?",
+            "{opener}what discount do families get when two or more siblings attend alongside {subject}?",
         ],
     },
     {
@@ -145,14 +145,12 @@ def generate_dataset(questions_per_topic: int = 5) -> pd.DataFrame:
     records = []
 
     for item in TOPICS:
-        # Generate all valid combinations for this topic
         combinations = [
             format_question(tmpl, opener, subj)
             for tmpl in item["templates"]
             for opener in OPENERS
             for subj in SUBJECTS
         ]
-        # Ensure uniqueness and sample the required count per topic
         unique_combinations = sorted(set(combinations))
         sampled_questions = random.sample(unique_combinations, questions_per_topic)
 
@@ -165,12 +163,10 @@ def generate_dataset(questions_per_topic: int = 5) -> pd.DataFrame:
                 }
             )
 
-    # Shuffle across categories and assign sequential IDs
     random.shuffle(records)
     df = pd.DataFrame(records)
     df.insert(0, "ID", range(1, len(df) + 1))
 
-    # Validation checks before saving
     assert len(df) == 50, f"Expected 50 rows, got {len(df)}"
     assert df["Question"].nunique() == 50, "Duplicate questions detected!"
     assert list(df.columns) == ["ID", "Question", "Expected Answer", "Category"]

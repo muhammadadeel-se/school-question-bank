@@ -7,9 +7,9 @@ ID,Question,Expected Answer,Category
 6,"Hello, do you accept direct bank deposits for the term fees of my daughter?","Fees can be paid via online bank transfer, debit or credit card on the parent portal, or direct bank deposit.",Fees
 7,"Could you please clarify, will there be regular classes or a day off on gazetted public holidays for my daughter?","The school closes on all national public holidays, and notices are posted on the parent portal two days prior.",Holidays
 8,"Could you please clarify, does the school offer any sibling discount on tuition fees for new students?",Families with two or more enrolled children receive a 10% tuition discount for each additional sibling.,Fees
-9,"Could you please clarify, could you confirm the due date for this term's tuition fee for my son?",Monthly tuition fees are due by the 10th of each month.,Fees
+9,"Could you please clarify, could you confirm the due date for this month's tuition fee for my son?",Monthly tuition fees are due by the 10th of each month.,Fees
 10,"Hello, when do the summer holidays begin this year for new students?","Summer vacation begins on June 15 and ends on August 14, with school reopening on August 15.",Holidays
-11,"Hello, could you confirm the due date for this term's tuition fee for new students?",Monthly tuition fees are due by the 10th of each month.,Fees
+11,"Hello, could you confirm the due date for this month's tuition fee for new students?",Monthly tuition fees are due by the 10th of each month.,Fees
 12,Can you share the summer break schedule for my child?,"Summer vacation begins on June 15 and ends on August 14, with school reopening on August 15.",Holidays
 13,"Hi, how are parents notified about upcoming public holiday closures for new students?","The school closes on all national public holidays, and notices are posted on the parent portal two days prior.",Holidays
 14,Does the school observe all national public holidays for new students?,"The school closes on all national public holidays, and notices are posted on the parent portal two days prior.",Holidays
@@ -31,7 +31,7 @@ ID,Question,Expected Answer,Category
 30,"Could you please clarify, on which days should I send my child in the sports uniform instead of regular uniform?","Students must wear the regular school uniform and black shoes Monday through Thursday, and the sports kit on Fridays.",Behavior Rules
 31,"Could you please clarify, are there reduced tuition rates when multiple children from the same family attend with my child?",Families with two or more enrolled children receive a 10% tuition discount for each additional sibling.,Fees
 32,"Hello, how are parents notified about upcoming public holiday closures for new students?","The school closes on all national public holidays, and notices are posted on the parent portal two days prior.",Holidays
-33,"Hi, how much fee concession is available if I enroll another sibling alongside my son?",Families with two or more enrolled children receive a 10% tuition discount for each additional sibling.,Fees
+33,"Hi, what discount do families get when two or more siblings attend alongside my son?",Families with two or more enrolled children receive a 10% tuition discount for each additional sibling.,Fees
 34,"Could you please clarify, what happens if my son arrives after 8:10 AM in the morning?","Classes begin at 8:00 AM; arrivals after 8:10 AM are marked late, and at least 85% attendance is mandatory.",Behavior Rules
 35,How many weeks is the summer vacation period for my son?,"Summer vacation begins on June 15 and ends on August 14, with school reopening on August 15.",Holidays
 36,What payment methods are accepted for paying school fees for my daughter?,"Fees can be paid via online bank transfer, debit or credit card on the parent portal, or direct bank deposit.",Fees
@@ -43,7 +43,7 @@ ID,Question,Expected Answer,Category
 42,"Hello, are there reduced tuition rates when multiple children from the same family attend with new students?",Families with two or more enrolled children receive a 10% tuition discount for each additional sibling.,Fees
 43,"Could you please clarify, are mobile phones strictly banned inside classrooms for my daughter?",Mobile phones are not allowed during school hours; emergency devices must be turned off and handed in at the front office.,Behavior Rules
 44,"Hello, what is the official fee submission deadline each month for new students?",Monthly tuition fees are due by the 10th of each month.,Fees
-45,"Hello, could you confirm the due date for this term's tuition fee for my child?",Monthly tuition fees are due by the 10th of each month.,Fees
+45,"Hello, could you confirm the due date for this month's tuition fee for my child?",Monthly tuition fees are due by the 10th of each month.,Fees
 46,Are there reduced tuition rates when multiple children from the same family attend with new students?,Families with two or more enrolled children receive a 10% tuition discount for each additional sibling.,Fees
 47,"Hi, on which days should I send my child in the sports uniform instead of regular uniform?","Students must wear the regular school uniform and black shoes Monday through Thursday, and the sports kit on Fridays.",Behavior Rules
 48,"Hello, which date do classes resume after the winter holidays for my child?","Winter break runs from December 22 to January 5, and classes resume on January 6.",Holidays
