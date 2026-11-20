@@ -1,0 +1,51 @@
+ID,Question,Expected Answer,Category
+1,Quick question: do you accept direct bank deposits for the term fees of my child?,"Fees can be paid via online bank transfer, debit or credit card on the parent portal, or direct bank deposit.",Fees
+2,Quick question: what happens if the monthly fee payment for new students is delayed past the deadline?,A late payment surcharge of 5% is applied if fees are paid after the 10th of the month.,Fees
+3,By which date do I need to clear the school fees for new students?,Monthly tuition fees are due by the 10th of each month.,Fees
+4,"Hi, could you explain the punctuality and attendance rules for my daughter?","Classes begin at 8:00 AM; arrivals after 8:10 AM are marked late, and at least 85% attendance is mandatory.",Behavior Rules
+5,"Hello, will there be regular classes or a day off on gazetted public holidays for new students?","The school closes on all national public holidays, and notices are posted on the parent portal two days prior.",Holidays
+6,"Hello, do you accept direct bank deposits for the term fees of my daughter?","Fees can be paid via online bank transfer, debit or credit card on the parent portal, or direct bank deposit.",Fees
+7,"Could you please clarify, will there be regular classes or a day off on gazetted public holidays for my daughter?","The school closes on all national public holidays, and notices are posted on the parent portal two days prior.",Holidays
+8,"Could you please clarify, does the school offer any sibling discount on tuition fees for new students?",Families with two or more enrolled children receive a 10% tuition discount for each additional sibling.,Fees
+9,"Could you please clarify, could you confirm the due date for this term's tuition fee for my son?",Monthly tuition fees are due by the 10th of each month.,Fees
+10,"Hello, when do the summer holidays begin this year for new students?","Summer vacation begins on June 15 and ends on August 14, with school reopening on August 15.",Holidays
+11,"Hello, could you confirm the due date for this term's tuition fee for new students?",Monthly tuition fees are due by the 10th of each month.,Fees
+12,Can you share the summer break schedule for my child?,"Summer vacation begins on June 15 and ends on August 14, with school reopening on August 15.",Holidays
+13,"Hi, how are parents notified about upcoming public holiday closures for new students?","The school closes on all national public holidays, and notices are posted on the parent portal two days prior.",Holidays
+14,Does the school observe all national public holidays for new students?,"The school closes on all national public holidays, and notices are posted on the parent portal two days prior.",Holidays
+15,Quick question: where should emergency phones be deposited during class hours for my child?,Mobile phones are not allowed during school hours; emergency devices must be turned off and handed in at the front office.,Behavior Rules
+16,"Could you please clarify, what is the minimum attendance percentage required during the term for new students?","Classes begin at 8:00 AM; arrivals after 8:10 AM are marked late, and at least 85% attendance is mandatory.",Behavior Rules
+17,"Hi, could you share the dress code and uniform guidelines for my daughter?","Students must wear the regular school uniform and black shoes Monday through Thursday, and the sports kit on Fridays.",Behavior Rules
+18,What is the reopening date after summer vacation for new students?,"Summer vacation begins on June 15 and ends on August 14, with school reopening on August 15.",Holidays
+19,Quick question: is there a late fee fine if I submit the tuition payment a few days late for my daughter?,A late payment surcharge of 5% is applied if fees are paid after the 10th of the month.,Fees
+20,"Could you please clarify, could you share the dress code and uniform guidelines for new students?","Students must wear the regular school uniform and black shoes Monday through Thursday, and the sports kit on Fridays.",Behavior Rules
+21,What happens if my son arrives after 8:10 AM in the morning?,"Classes begin at 8:00 AM; arrivals after 8:10 AM are marked late, and at least 85% attendance is mandatory.",Behavior Rules
+22,"Hi, what time does the morning bell ring and when is late arrival marked for my child?","Classes begin at 8:00 AM; arrivals after 8:10 AM are marked late, and at least 85% attendance is mandatory.",Behavior Rules
+23,Quick question: is there an online portal option to submit school fees for new students?,"Fees can be paid via online bank transfer, debit or credit card on the parent portal, or direct bank deposit.",Fees
+24,Quick question: are mobile phones strictly banned inside classrooms for my son?,Mobile phones are not allowed during school hours; emergency devices must be turned off and handed in at the front office.,Behavior Rules
+25,"Hello, when does the winter break start and end this academic year for my daughter?","Winter break runs from December 22 to January 5, and classes resume on January 6.",Holidays
+26,"Hello, can you share the summer break schedule for my child?","Summer vacation begins on June 15 and ends on August 14, with school reopening on August 15.",Holidays
+27,Quick question: how long is the school closed during winter break for my daughter?,"Winter break runs from December 22 to January 5, and classes resume on January 6.",Holidays
+28,"Could you please clarify, is there a late fee fine if I submit the tuition payment a few days late for new students?",A late payment surcharge of 5% is applied if fees are paid after the 10th of the month.,Fees
+29,What are the exact dates for the upcoming winter vacation for my daughter?,"Winter break runs from December 22 to January 5, and classes resume on January 6.",Holidays
+30,"Could you please clarify, on which days should I send my child in the sports uniform instead of regular uniform?","Students must wear the regular school uniform and black shoes Monday through Thursday, and the sports kit on Fridays.",Behavior Rules
+31,"Could you please clarify, are there reduced tuition rates when multiple children from the same family attend with my child?",Families with two or more enrolled children receive a 10% tuition discount for each additional sibling.,Fees
+32,"Hello, how are parents notified about upcoming public holiday closures for new students?","The school closes on all national public holidays, and notices are posted on the parent portal two days prior.",Holidays
+33,"Hi, how much fee concession is available if I enroll another sibling alongside my son?",Families with two or more enrolled children receive a 10% tuition discount for each additional sibling.,Fees
+34,"Could you please clarify, what happens if my son arrives after 8:10 AM in the morning?","Classes begin at 8:00 AM; arrivals after 8:10 AM are marked late, and at least 85% attendance is mandatory.",Behavior Rules
+35,How many weeks is the summer vacation period for my son?,"Summer vacation begins on June 15 and ends on August 14, with school reopening on August 15.",Holidays
+36,What payment methods are accepted for paying school fees for my daughter?,"Fees can be paid via online bank transfer, debit or credit card on the parent portal, or direct bank deposit.",Fees
+37,Quick question: what are the exact dates for the upcoming winter vacation for my daughter?,"Winter break runs from December 22 to January 5, and classes resume on January 6.",Holidays
+38,"Could you please clarify, what happens if the monthly fee payment for my daughter is delayed past the deadline?",A late payment surcharge of 5% is applied if fees are paid after the 10th of the month.,Fees
+39,"Hello, where should emergency phones be deposited during class hours for my daughter?",Mobile phones are not allowed during school hours; emergency devices must be turned off and handed in at the front office.,Behavior Rules
+40,Do you charge a late payment surcharge on overdue school fees for my daughter?,A late payment surcharge of 5% is applied if fees are paid after the 10th of the month.,Fees
+41,Can I pay the tuition fee online using a debit card or bank transfer for new students?,"Fees can be paid via online bank transfer, debit or credit card on the parent portal, or direct bank deposit.",Fees
+42,"Hello, are there reduced tuition rates when multiple children from the same family attend with new students?",Families with two or more enrolled children receive a 10% tuition discount for each additional sibling.,Fees
+43,"Could you please clarify, are mobile phones strictly banned inside classrooms for my daughter?",Mobile phones are not allowed during school hours; emergency devices must be turned off and handed in at the front office.,Behavior Rules
+44,"Hello, what is the official fee submission deadline each month for new students?",Monthly tuition fees are due by the 10th of each month.,Fees
+45,"Hello, could you confirm the due date for this term's tuition fee for my child?",Monthly tuition fees are due by the 10th of each month.,Fees
+46,Are there reduced tuition rates when multiple children from the same family attend with new students?,Families with two or more enrolled children receive a 10% tuition discount for each additional sibling.,Fees
+47,"Hi, on which days should I send my child in the sports uniform instead of regular uniform?","Students must wear the regular school uniform and black shoes Monday through Thursday, and the sports kit on Fridays.",Behavior Rules
+48,"Hello, which date do classes resume after the winter holidays for my child?","Winter break runs from December 22 to January 5, and classes resume on January 6.",Holidays
+49,"Hi, could you share the dress code and uniform guidelines for my child?","Students must wear the regular school uniform and black shoes Monday through Thursday, and the sports kit on Fridays.",Behavior Rules
+50,Where should emergency phones be deposited during class hours for my daughter?,Mobile phones are not allowed during school hours; emergency devices must be turned off and handed in at the front office.,Behavior Rules
